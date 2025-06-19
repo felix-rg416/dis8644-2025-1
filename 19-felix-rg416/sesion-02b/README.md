@@ -49,7 +49,7 @@ consiste en ir sacando resistencias y ver qué pasa con las leds ¿se apaga o se
 
 ![diagrama LQXTLC 01](./archivos/diagramaLQXTLC.01.png)
 
-#### BOM
+#### BOM 01
 
 | tipo         | Qty | nombre/etiqueta | valor        |
 |--------------|-----|-----------------|--------------|
@@ -71,7 +71,7 @@ consiste en ir sacando resistencias y ver qué pasa con las leds ¿se apaga o se
 
 ![diagrama LQXTLC 02](./archivos/diagramaLQXTLC.02.png)
 
-#### BOM
+#### BOM 02
 
 | tipo         | Qty | nombre/etiqueta   | valor     |
 |--------------|-----|-------------------|-----------|
@@ -94,7 +94,7 @@ consiste en ir sacando resistencias y ver qué pasa con las leds ¿se apaga o se
 
 ![diagrama LQXTLC 03](./archivos/diagramaLQXTLC.03.png)
 
-#### BOM
+#### BOM 03
 
 | tipo         | Qty | nombre/etiqueta         | valor        |
 |--------------|-----|-------------------------|--------------|

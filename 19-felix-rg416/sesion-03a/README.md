@@ -66,11 +66,11 @@ almacena voltaje
 | Condensador cerámico      | 470nF (474)  | 2            |
 | Condensador electrolítico | 10uF         | 2            |
 
-> **ATENTO A DONDE PONES LOS CABLES**
+ATENTO A DONDE PONES LOS CABLES
 
-> **revisar muy bien el valor de los componentes**
+REVISAR MUY BIEN EL VALOR DE LOS COMPONENTES
 
-> **revisar muy bien las conexiones**
+REVISAR MUY BIEN LAS CONEXIONES
 
 los condensadores electrolíticos TIENEN polaridad. si no se ponen correctamente EXPLOTAN
 
