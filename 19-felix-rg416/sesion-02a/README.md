@@ -27,7 +27,7 @@ electricidad como caudal:
 
 ![electricidad como agua](./archivos/electricidad_agua.jpg)
 
-## serie
+### serie
 
 la electricidad tiene sólo un camino
 
@@ -39,7 +39,7 @@ sin un led no funciona, se **interrumpe** el camino
 
 ![serie sin 1 led](./archivos/serie-1led.jpg)
 
-## paralelo
+### paralelo
 
 la elecrticidad tiene más de un camino
 
@@ -51,7 +51,7 @@ al tener varios caminos, si falta un led, igual **funciona**
 
 ![paralelo-1led](./archivos/paralelo-1led.jpg)
 
-# Encargo 04
+## Encargo 04
 
 ![álbum Sandía de Pablo Flores](./archivos/sandía.jpg)
 

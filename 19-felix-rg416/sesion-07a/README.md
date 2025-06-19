@@ -134,6 +134,6 @@ Pitch = [P] = distancia entre patitas
 - Seleccionar toda la pista **[U]**
 - Rellena todo **[B]** (area de relleno)
 
-# Encargo 14
+## Encargo 14
 
 ![Teclado APC](./archivos/tecladoAPC.kicad.png)

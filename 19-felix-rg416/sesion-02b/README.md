@@ -18,7 +18,7 @@
 - [node.js](https://nodejs.org/en)
 - [plantillas para tablas markdown](https://www.tablesgenerator.com/markdown_tables)
 
-# BOM - Bill Of Materials
+## BOM - Bill Of Materials
 
 | tipo        | Qty      | nombre/etiqueta | valor |
 |-------------|----------|-----------------|-------|
@@ -27,13 +27,13 @@
 
 una tabla muy práctica, ordena elementos y ayuda con presupuestos
 
-# circuitos y actividades
+## circuitos y actividades
 
-## LQXTLC
+### LQXTLC
 
 consiste en ir sacando resistencias y ver qué pasa con las leds ¿se apaga o se mantiene prendida? ¿aumenta o baja la luz?
 
-## 00
+### 00
 
 **BOM**
 
@@ -45,7 +45,7 @@ consiste en ir sacando resistencias y ver qué pasa con las leds ¿se apaga o se
 
 ![actividad 00](./archivos/actividad.00.jpg)
 
-## 01
+### 01
 
 ![diagrama LQXTLC 01](./archivos/diagramaLQXTLC.01.png)
 
@@ -67,7 +67,7 @@ consiste en ir sacando resistencias y ver qué pasa con las leds ¿se apaga o se
 | R4     | 1  | 1  | 1  | 0  |
 | R5     | 1  | 0  | 0  | 1  |
 
-## 02
+### 02
 
 ![diagrama LQXTLC 02](./archivos/diagramaLQXTLC.02.png)
 
@@ -90,7 +90,7 @@ consiste en ir sacando resistencias y ver qué pasa con las leds ¿se apaga o se
 | R5     |1   |1   |1   |0   |
 | R6     |1   |1   |1   |1   |
 
-## 03
+### 03
 
 ![diagrama LQXTLC 03](./archivos/diagramaLQXTLC.03.png)
 

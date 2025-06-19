@@ -58,9 +58,9 @@ se puede controlar la posición y el movimiento de forma precisa
 
 ![servoMotor](.\archivos\servoMotor.jpg)
 
-# Encargo 02
+## Encargo 02
 
-## Aphex twin
+### Aphex twin
 
 ![Aphex Twin SAW2](./archivos/aphexTwin.png)
 
@@ -72,8 +72,8 @@ Luego busqué información sobre el álbum, el cual fue publicado en 1994 y es e
 
 > Me salió "QKThr" que aparece en Tik Tok y no tenía idea de quién era hasta ahora.
 
-### fuentes
-
+**fuentes**
+ 
 -  Aphex Twin. (s/f). Last.fm. <https://www.last.fm/es/music/Aphex+Twin/+wiki>
 
 - Wikipedia contributors. (s/f). Selected Ambient Works II. Wikipedia, The Free Encyclopedia. <https://es.wikipedia.org/w/index.php?title=Selected_Ambient_Works_II&oldid=153834461>

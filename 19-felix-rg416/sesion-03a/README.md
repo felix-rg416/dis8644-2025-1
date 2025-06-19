@@ -23,9 +23,9 @@
 - 1 x 10^6 1.000.000 = 1 M (mega)
 - 1 x 10^9 1.000.000.000 = 1 G (giga)
 
-# elementos nuevos
+## elementos nuevos
 
-## cirtuito LM 555
+### cirtuito LM 555
 
 " todo esto funciona con magia, cuando sale el humito, se va el humo mágico y no funciona, no se puede volver a meter"
 
@@ -35,23 +35,23 @@
 
 ![NE555P](./archivos/NE555P.png)
 
-## condensador
+### condensador
 
 almacena voltaje
 
-### cerámico 474
+#### cerámico 474
 
 *47* = dígito *4* 0s = 470.000 p = 470 n = 0,47
 
 ![condensador cerámico 474](./archivos/condensador-cerámico-474.png)
 
-### condensador electrolítico
+#### condensador electrolítico
 
 1 μF - 10 μF - 100 μF
 
 ![condensador-elctrolítico](./archivos/condensador-elctrolítico.png)
 
-# 1er circuito con 555
+## 1er circuito con 555
 
 ![circuito-NE555](./archivos/circuito_NE555.png)
 
@@ -100,15 +100,15 @@ con 10 μF es más rápido que con 100 μF, con 1 μF parpadea tan rápido que s
 
 condensador electrolítico 1 μF + con el potenciómetro se puede controlar la velocidad de parapdeo
 
-# encargo-06
+## encargo-06
 
-## einstrürzende neubauten
+### einstrürzende neubauten
 
 grupo musical formado en Berlín, 1980. se podría clasificar usualmente como industrial o electrónica, pero esos estilos no llegan a describir su sonido. usan instrumentos y sonidos que ellos mismos fabricaron, acompañados de instrumentos tradicionales como guitarra, bajo y sintetizadores. pertenecieron al movimiento dadaísta Die Geniale Dilletanten, que tenía el objetivo de revolucionar lo musical usando sierras, palas, taladros y otras herramientas de construcción como instrumentos musicales.
 
 Escuché el álbum "silence is sexy". la canción, con el mismo nombre, me incomodó mucho, sentía que tenía que escuchar algo que no había, me generó una sensación muy extraña, casi desagradable. "in circles" también me generó una sensación desagradable. prácticamente todo el álbum lo hizo.
 
-## stereolab
+### stereolab
 
 grupo británico de rock formado en Londres en 1990. su estilo combina la música lounge e easy-listening de los años 50 y 60 con influencias del krautrock y el pop de los años 60, entre otros. se les aplicó la etiqueta "post-rock". usan antiguos instrumentos de teclado analógicos tales como sintetizadores Moog y órganos eléctricos Farfisa y Vox.
 se inspiran en el género krautrock, como las bandas Can, Kraftwerk y Neu!; el pop de los 60; el rock experimental como Syd Barrett y The Velvet Underground.

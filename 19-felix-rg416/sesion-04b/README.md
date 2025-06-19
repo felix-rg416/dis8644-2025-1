@@ -4,11 +4,11 @@
 
 [Insoladora UV pt.2 (battlecoder)](https://bitofmystery.com/uv-exposure-box-project-part-2/)
 
-# circuito monoestable
+## circuito monoestable
 
 - [calculadora de circuito 555](https://ohmslawcalculator.com/555-monostable-calculator)
 
-# encargo-10
+## encargo-10
 
 escuchar switched on bach (wendy carlos)
 
@@ -18,19 +18,19 @@ escuchar switched on bach (wendy carlos)
 
 El álbum Switched on Bach de Wendy Carlos, publicado en 1968. Es una recopilación de piezas de Johann Sebastián Bach interpretado por Wendy Carlos en un Sintetizador moog.
 
-# encargo-11: mouse rosado
+## encargo-11: mouse rosado
 
 ![mouse rosado](./archivos/mouse.01.jpg) 
 
 ![mouse.02](./archivos/mouse.02.jpg)
 
-## uso y usuario
+### uso y usuario
 
 el mouse inalámbrico es un objeto común para las personas que usan computador o laptop. aunque muchas laptops incluyen un trackpad, muchos usuarios prefieren un mouse externo gracias a su comodidad y precisión.
 
 está dirigido a cualquier persona que utilice un computador, sin necesitar conocimientos técnicos para su uso. es intuitivo y ergonómico: la mano hábil (generalmente la derecha) se posa sobre él, dejando el dedo índice y medio sobre los botones principales, ubicados a ambos lados del scroll central.
 
-## interacción e indicaciones de uso
+### interacción e indicaciones de uso
 
 ![GIF.interacción](./archivos/GIF.interacción.gif)
 
@@ -44,7 +44,7 @@ funciones externas y control:
 
 todos los elementos son de fácil acceso con una sola mano, ofreciendo un grado de control simple, pero eficiente.
 
-# componentes internos
+## componentes internos
 
 ![collage](./archivos/collage.01.png)
 
@@ -100,4 +100,3 @@ la placa tiene serigrafiados varios elementos:
 | oscilador de  cristal | 1       | Y1         | 16MHZ          |
 | PCB                   | 1       | -          |                |
 | conector de pila      | 1       | -          |                |
-|                       |         |            |                |

@@ -1,8 +1,8 @@
 # sesion-05b
 
-# modificaciones
+## modificaciones
 
-## para incluir botones
+### para incluir botones
 
 - a partir de la **R1** (pin 7) unir una fila de resistencias (pueden ser de distinto valor) y agregar botones conectados las pin 2
 - también se pueden agregar antes del C1 agregando otro capacitor/condensador
