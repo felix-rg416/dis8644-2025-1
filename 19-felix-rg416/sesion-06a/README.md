@@ -61,9 +61,9 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![atariPunk_tinkercad](./archivos/tinkecad.png)
 
-# BITÁCORAS
+## BITÁCORAS
 
-## Bitácora Anto
+### Bitácora Anto
 
 ![ilustraciones+pauta](https://github.com/user-attachments/assets/d9cf7cdb-72ed-40ac-83de-da013afd2faf)
 
@@ -73,7 +73,7 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![diagrama_de_flujo](./archivos/bitácoras/anto.feuntealba/bitacora.anto.06.jpeg)
 
-## Bitácora Sofía
+### Bitácora Sofía
 
 ![bitácora( 1)](./archivos/bitácoras/sofía/bitácora.sofía.01.jpeg)
 
@@ -83,7 +83,7 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![bitácora (4)](./archivos/bitácoras/sofía/bitácora.sofía.02.jpeg)
 
-## Bitácora Izhak
+### Bitácora Izhak
 
 ![bitacoraa(1)](./archivos/bitácoras/izhak.villegas/bitacora.izhak.01.jpeg)
 
@@ -101,7 +101,7 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![bitacoraa(8)](./archivos/bitácoras/izhak.villegas/bitacora.izhak.08.jpeg)
 
-## Bitácora y proceso Félix
+### Bitácora y proceso Félix
 
 ![pcb-b 01](./archivos/pcb-cajita/pcb-b.01.jpg)
 
@@ -117,7 +117,7 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 ![pcb-f 04](./archivos/pcb-cajita/pcb-f.04.jpg)
 
-### PROCESOS
+## PROCESOS
 
 ![collage](./archivos/pcb-cajita/collage.png)
 
@@ -127,11 +127,11 @@ A continuación se presenta el esquemático realizado para la construción del c
 
 <https://github.com/user-attachments/assets/fc261a51-aa6d-4029-83d4-fa57e76a6de4>
 
-### ESQUEMÁTICO ELÉCTRICO, BILL OF MATERIALS, CITAS Y REFERENCIAS
+## ESQUEMÁTICO ELÉCTRICO, BILL OF MATERIALS, CITAS Y REFERENCIAS
 
 ![esquemático final](./archivos/esquematico.jpeg)
 
-### BILL OF MATERIALS (B.O.M)
+## BILL OF MATERIALS (B.O.M)
 
 | Tipo                  | Cantidad | Nombre                  | Valor      |
 |-----------------------|----------|-------------------------|------------|
@@ -153,7 +153,7 @@ Para nuestro proceso nos referenciamos en el piano electrónico creado por Joshu
 
 <https://www.instructables.com/Simple-Electronic-Piano/>
 
-### CONCLUSIÓN
+## CONCLUSIÓN
 
 Finalmente a la hora de probar por primera vez nuestro circuito nos dimos cuenta que no funciona
 ¿qué errores hay?, ¿son solucionables?, ¿se puede llegar al resultado deseado?
