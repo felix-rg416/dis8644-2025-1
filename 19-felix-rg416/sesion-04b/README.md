@@ -4,30 +4,35 @@
 
 [Insoladora UV pt.2 (battlecoder)](https://bitofmystery.com/uv-exposure-box-project-part-2/)
 
-## circuito monoestable
+# circuito monoestable
 
 - [calculadora de circuito 555](https://ohmslawcalculator.com/555-monostable-calculator)
--
 
-### encargo-10
+# encargo-10
 
-01 escuchar switched on bach (wendy carlos)
+escuchar switched on bach (wendy carlos)
 
-Botón experimental
+![Wndy Carlos](./archivos/WendyCarlos.jpg)
 
-## encargo-11: mouse rosado
+[Switched on bach - video](https://www.youtube.com/watch?v=rmJeXhcQQa0)
 
-![mouse rosado](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04b/archivos/mouse.01.jpg) ![mouse.02](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04b/archivos/mouse.02.jpg)
+El álbum Switched on Bach de Wendy Carlos, publicado en 1968. Es una recopilación de piezas de Johann Sebastián Bach interpretado por Wendy Carlos en un Sintetizador moog.
 
-### uso y usuario
+# encargo-11: mouse rosado
+
+![mouse rosado](./archivos/mouse.01.jpg) 
+
+![mouse.02](./archivos/mouse.02.jpg)
+
+## uso y usuario
 
 el mouse inalámbrico es un objeto común para las personas que usan computador o laptop. aunque muchas laptops incluyen un trackpad, muchos usuarios prefieren un mouse externo gracias a su comodidad y precisión.
 
 está dirigido a cualquier persona que utilice un computador, sin necesitar conocimientos técnicos para su uso. es intuitivo y ergonómico: la mano hábil (generalmente la derecha) se posa sobre él, dejando el dedo índice y medio sobre los botones principales, ubicados a ambos lados del scroll central.
 
-### interacción e indicaciones de uso
+## interacción e indicaciones de uso
 
-![GIF.interacción](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04b/archivos/GIF.interacci%C3%B3n.gif)
+![GIF.interacción](./archivos/GIF.interacción.gif)
 
 generalmente, la forma del mouse sugiere su modo de uso de manera ergonómica e indicativa: la curva superior invita a apoyar la mano, los botones y la rueda central indican las zonas de interacción (en este caso no tiene una forma curva, pero, al conocer otros modelos, es posible intuirlo). no se necesitan mayores señalizaciones para su uso
 
@@ -38,11 +43,10 @@ funciones externas y control:
 - scroll (o rueda) central: permite desplazarse verticalmente en documentos o páginas web; también puede presionarse como botón adicional para ejecutar atajos o funciones específicas.
 
 todos los elementos son de fácil acceso con una sola mano, ofreciendo un grado de control simple, pero eficiente.
-_______________________
 
-## componentes internos
+# componentes internos
 
-![collage](https://github.com/felix-rg416/dis8644-2025-1/blob/main/19-felix-rg416/sesion-04b/archivos/collage.01.png)
+![collage](./archivos/collage.01.png)
 
 **placa PCB principal:** tiene una única placa PCB, donde se encuentran todos los componentes electrónicos. la placa une la alimentación, el procesamiento de datos y la interfaz física con el usuario.
 

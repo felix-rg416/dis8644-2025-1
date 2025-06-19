@@ -108,10 +108,21 @@ los componentes tienen:
 
 ---
 
-## encargo-16: cotizar udpudu en JLCPCB de forma productiva
+# encargo-16: cotizar udpudu en JLCPCB de forma productiva
 
 hacerse una cuenta en JLCPCB y cotizar udpudu, para 30 personas, documentar cada parámetro y elección.
 
-## encargo-17: cotizar udpudu en JLCPCB de forma experimental
+![subir archivo Gerber](./archivos/jlcpcb_01.png)
+
+Hay que subir la carpeta zip de gerber a la página
+
+![parámetros a elección 01](./archivos/jlcpcb_02.png)
+![parámetros a elección 02](./archivos/jlcpcb_03.png)
+
+Puse la opción de 2 capas porque en este caso no necesitamos más, sólo Front y Back. En tipo de producto es el "electronica industrial/de consumo" porque la aeroespacial y médica está en otro nivel demasiado específico para lo que lo vamos a usar nosotros. En espesor puse 1.6mm porque es el más barato. Quise poner la placa en azul porque es mi color favorito.
+
+# encargo-17: cotizar udpudu en JLCPCB de forma experimental
 
 probar opciones que no entiendan, documentar otros parámetros que no conozcan aún.
+
+![parámetros que no conozco](./archivos/jlcpcb_04.png)

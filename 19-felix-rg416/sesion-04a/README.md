@@ -65,7 +65,7 @@ curcuito 02
 
 ![1-bit symphony](./archivos/1_bit_symphony.jpg)
 
-[fuente](https://cantaloupemusic.com/albums/1-bit-symphony)
+Cantaloupemusic.com. <https://cantaloupemusic.com/albums/1-bit-symphony>
 
 me causó más impresión e interés el aparato en sí que la música.
 

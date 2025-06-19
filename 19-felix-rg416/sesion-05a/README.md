@@ -33,8 +33,8 @@ cálculo de resistencia:
 Paralelo: Ceq = C1 + C2
 Serie: Ceq = C1*C2/C1+C2
 
-## MODDING
+# MODDING
 
-### cambios
+# cambios
 
 antes del C1 poner un interruptor con otro condensador.

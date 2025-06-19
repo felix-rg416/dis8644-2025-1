@@ -23,30 +23,40 @@ todo se escribe en minúsculas y sin espacio: carpetaNueva (la mejor opción) - 
 
 ## circuitos
 
-> electricidad como caudal:
+electricidad como caudal:
 
-![electricidad como agua](https://github.com/user-attachments/assets/409d76d9-0692-49e7-b1e2-c526d4dcaa46)
+![electricidad como agua](./archivos/electricidad_agua.jpg)
 
 ## serie
 
-> la electricidad tiene sólo un camino
+la electricidad tiene sólo un camino
 
-![circuito_serie](https://github.com/user-attachments/assets/29e140bf-9758-4f9b-9fb5-8225100049c5)
+![circuito_serie](./archivos/circuitoSerie.jpg)
 
-![serie](https://github.com/user-attachments/assets/6f4805bf-e14c-4189-91f9-4a6ad7e0b5ea)
+![circuito en serie en la proto](./archivos/circuitoSerie_proto.jpg)
 
-> sin un led no funciona, se *interrumpe* el camino
+sin un led no funciona, se **interrumpe** el camino
 
-![serie-1led](https://github.com/user-attachments/assets/1dfe5ce8-5c2b-4b14-8db8-8c7822c6f43c)
+![serie sin 1 led](./archivos/serie-1led.jpg)
 
 ## paralelo
 
-> la elecrticidad tiene más de un camino
+la elecrticidad tiene más de un camino
 
-![circuito_paralelo](https://github.com/user-attachments/assets/915beb7b-7355-4ea9-9687-fe1b132fead2)
+![circuito_paralelo](./archivos/circuitoParalelo.jpg)
 
-![paralelo](https://github.com/user-attachments/assets/eaa238d4-d72e-48a9-b202-4f8c2cfaf5ff)
+![paralelo](./archivos/circuitoParalelo_proto.jpg)
 
-> al tener varios caminos, si falta un led, igual *funciona*
+al tener varios caminos, si falta un led, igual **funciona**
 
-![paralelo-1led](https://github.com/user-attachments/assets/c6fe10f0-c192-40e1-9059-53dc7835328b)
+![paralelo-1led](./archivos/paralelo-1led.jpg)
+
+# Encargo 04
+
+![álbum Sandía de Pablo Flores](./archivos/sandía.jpg)
+
+Escuché el disco *Sandía* de Pablo FLores, publicado en febrero de 2025. Pablo dijo que, mientras trabajaba en el álbum, David Bowie lo acompañó con su frase *“I think most artists feel a lot happier, discussing the process of what they do, rather than what the hell it means. I know so many painters who title their works after they’ve done them, which is a real giveaway.”*.
+
+Su obra nace desde lo abstracto y emocional, busca *"transformar la experiencia en algo sonoro más que conceptual"* y espera que sea *"una llamada a no olvidar lo que realmente importa: a cuidar y amar a los unos a los otros, sin importar lo que el mundo nos quiera imponer."*
+
+- Sandía. (2025, febrero 26). Pueblo Nuevo Netlabel. <https://pueblonuevo.cl/catalogo/sandia/>

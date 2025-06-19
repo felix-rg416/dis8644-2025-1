@@ -14,6 +14,8 @@
 
 ![PWMtinkecard](./archivos/PWMtinkercad.png)
 
+![rgb](./archivos/RGB.mov)
+
 pin 5 del 555 - control de voltaje, es inestable, por eso se usa un condensador
 
 ___
@@ -28,11 +30,13 @@ chip de 14 patitas
 
 muy usado
 
-- DIBUJO *
+![dibujo pin out de lm324](./archivos/LM324.pinout.png)
 
 puede usar alimencación bipolar "es un cacho"
 
 ## divisor de voltaje
+
+![divisor de voltaje](./archivos/divisorVoltaj.png)
 
 divisor de voltaje
 
@@ -40,12 +44,28 @@ si quiero dividir a la mitad el voltaje de la batería, pongo una resistencia en
 
 ## falstad
 
+![resistencia y led en falstad](./archivos/falstad.01.png)
+
+![editar componentes en falstad](./archivos/editarComponentes.png)
+
+![divisor de voltaje con potenciómetro](./archivos/divisorVoltaje.png)
+
+![editar potenciómetro](./archivos/editar.potenciometro.png)
+
+![potenciómetro en falstad](./archivos/potenciómetro.png)
+
+### cómo agregar un osciloscopio
+
+![paso uno osciloscopio](./archivos/osciloscopio.01.png)
+
+![cómo se ve el osciloscopio](./archivos/osciloscopio.02.png)
+
 ## circuito RLC
 
 ## Encargo
 
 pantallas de segmentos y cuántos tienen
 
-## encargo
+## encargo - 21
 
-hacer en falstad el PWM
+![pwm en falstad](./archivos/pwm_falstad.png)
